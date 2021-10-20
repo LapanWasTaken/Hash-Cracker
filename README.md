@@ -10,7 +10,7 @@ Cracking All Hash Type ^_^
 <br>
 ` cd Hash-Cracker `
 <br>
-` python2 Hash.py `
+` python2 hash.py `
 
 that's all ^_^
 
