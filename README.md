@@ -1,9 +1,8 @@
 # Hash-Cracker
 Cracking All Hash Type ^_^
+`
 
-
-<br>
-` installation `
+ installation 
 <br>
 ` pkg install python2 `
 <br>
