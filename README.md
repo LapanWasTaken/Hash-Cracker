@@ -1,5 +1,5 @@
 # Hash-Cracker
-Cracking Hash ^_^
+Cracking All Hash Type ^_^
 
 
 <br>
