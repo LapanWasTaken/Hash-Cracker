@@ -3,15 +3,15 @@ Cracking All Hash Type ^_^
 
 
 <br>
-installation
+` installation `
 <br>
-pkg install python2 
+` pkg install python2 `
 <br>
-git clone https://github.com/LapanWasTaken/Hash-Cracker
+` git clone https://github.com/LapanWasTaken/Hash-Cracker `
 <br>
-cd Hash-Cracker
+` cd Hash-Cracker `
 <br>
-python2 Hash.py
+` python2 Hash.py `
 
 that's all ^_^
 
