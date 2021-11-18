@@ -14,4 +14,4 @@ Cracking All Hash Type ^_^
 
 that's all ^_^
 
-<img src="https://tinyurl.com/wmjbyycc" width="815px" height="450px"></img>
+
