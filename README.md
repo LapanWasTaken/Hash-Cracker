@@ -1,17 +1,18 @@
 # Hash-Cracker
-Cracking All Hash Type ^_^
-`
 
- installation 
+` using python3 `
+
+
+ Installation
 <br>
-` pkg install python2 `
+` pkg install python3 `
 <br>
 ` git clone https://github.com/LapanWasTaken/Hash-Cracker `
 <br>
 ` cd Hash-Cracker `
 <br>
-` python2 hash.py `
+` python3 hash.py `
 
-that's all ^_^
+That's all ^_^
 
 
