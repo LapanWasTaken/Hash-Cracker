@@ -1,7 +1,6 @@
 # Hash-Cracker
 
-` using python3 `
-
+` using python3 and Wordlist `
 
  Installation
 <br>
