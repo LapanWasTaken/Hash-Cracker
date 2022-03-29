@@ -36,9 +36,6 @@ print(color.CYAN + "Github   : " + color.GREEN + "https://github.com/LapanWasTak
 print(color.CYAN + "Telegram : " + color.GREEN + "t.me/Cendawann")
 print(color.CYAN + "Quote    : " + color.GREEN + "Life is a series of thousand little miracles , notice them ")
 print(color.CYAN + "Note     : " + color.GREEN + "Don't Sell My Tool !")
-print(color.CYAN + "  /\_/\ " )
-print(color.CYAN + "  (•_•) " )
-print(color.CYAN + "  (>     " )
 flag = 0
 hash = input(color.BLUE + "[+] Enter MD5 hash: " + color.BLUE + "")
 wordlist = input(color.YELLOW + "[+] Enter Wordlist: " + color.BLUE + "")
